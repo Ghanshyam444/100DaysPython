@@ -1,0 +1,1 @@
+# Write a program to clear the clutter inside a folder on the computer. You should use os module to rename all the png images from 1.png all the ay till n.png where n is the number of png images in the folder. You should also delete all other file types in the folder.

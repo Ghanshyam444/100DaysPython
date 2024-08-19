@@ -1,0 +1,2 @@
+# Write a program to manipulate pdf files using pyPDF. your programs should be ablle to merge multiple pdf files into a single pdf. you are welcome to add more functionalities
+# pypdf is a free and open source pure-python pdf library capable of splitting and merging pdf files. It can also add custom data, viewing options, and passwords to pdf files.
